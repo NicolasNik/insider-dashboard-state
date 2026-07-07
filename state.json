@@ -1,0 +1,948 @@
+{
+  "research": [
+    {
+      "ticker": "NBIS",
+      "company": "Nebius Group N.V.",
+      "insider": "CEO Arkadiy Volozh verkaufte 46.627 Aktien ($10,98 Mio.), Chief Infrastructure Officer Andrey Korolenko 33.871 Aktien ($7,97 Mio.) und CTO Danila Shtan 16.937 Aktien ($3,99 Mio.) — alle am 6.7.2026, zusammen ~$23 Mio.",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "TipRanks – Nebius Insider Sales",
+          "https://www.tipranks.com/news/insider-trading/nebius-group-executives-cash-in-big-with-massive-insider-stock-sales-insider-trading-news",
+          "2026-07-06"
+        ],
+        [
+          "MarketScreener – Nebius Form 4",
+          "https://www.marketscreener.com/news/nebius-group-n-v-insider-sold-shares-worth-7-974-927-according-to-a-recent-sec-filing-ce7f5edbd881f424",
+          "2026-07-06"
+        ]
+      ],
+      "tier": "hoch",
+      "why": "CEO, Chief Infrastructure Officer und CTO verkauften am selben Tag zusammen ~$23 Mio. Aktien — Aktie fiel binnen 24h um 12-14%, klares Cluster-Verkaufssignal des gesamten Führungstrios.",
+      "signal": "verkauf",
+      "since": "2026-07-07",
+      "price_at_signal": "$213.02",
+      "price_history": [
+        [
+          "2026-07-07 05:25 UTC",
+          "$213.02"
+        ],
+        [
+          "2026-07-07 10:43 UTC",
+          "$213.02"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$196.59"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$199.72"
+        ]
+      ],
+      "categories": []
+    },
+    {
+      "ticker": "JKS",
+      "company": "JinkoSolar",
+      "insider": "Auffällig: Director Li Xianhua verkaufte über Peaky Investments Limited 1,28 Mio. ADS (13.5.2026, ~$25,53/ADS) – die mit Abstand größte Einzeltransaktion unter den Solartiteln in dieser Recherche, kurz nach Erhalt von 771.428 leistungsbasierten Aktien.",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – JKS Form 4 Filings",
+          "https://www.stocktitan.net/sec-filings/JKS/"
+        ]
+      ],
+      "tier": "hoch",
+      "why": "Director/Großaktionär Li Xianhua verkaufte 1,28 Mio. ADS (~$32,7 Mio.) – die größte Einzeltransaktion aller 19 Titel, kurz nach Erhalt neuer Performance-Aktien.",
+      "signal": "verkauf",
+      "since": "2026-07-05",
+      "price_at_signal": "$15.84",
+      "price_history": [
+        [
+          "2026-07-05",
+          "$15.84"
+        ],
+        [
+          "2026-07-06 18:30 UTC",
+          "$16.06"
+        ],
+        [
+          "2026-07-06 19:00 UTC",
+          "$16.04"
+        ],
+        [
+          "2026-07-07 05:25 UTC",
+          "$15.97"
+        ],
+        [
+          "2026-07-07 10:43 UTC",
+          "$15.97"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$15.87"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$15.65"
+        ]
+      ],
+      "categories": []
+    },
+    {
+      "ticker": "BMBL",
+      "company": "Bumble",
+      "insider": "Auffällig: Blackstone-verbundene Einheiten verkauften zweimal je ~7,48 Mio. Aktien (17.3. und 16.6.2026) über hedgingbasierte Forward-Transaktionen mit einer Bank – deutliche fortgesetzte Reduktion des Großaktionärs-Anteils. CEO Wolfe Herd nur Steuerabzug (46.751 Aktien).",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – BMBL Form 4 Filings",
+          "https://www.stocktitan.net/sec-filings/BMBL/"
+        ]
+      ],
+      "tier": "hoch",
+      "why": "Blackstone (Großaktionär) hat zweimal in 3 Monaten je ~7,48 Mio. Aktien verkauft – fortgesetzte, substanzielle Reduktion einer Kernposition durch einen sophistizierten Investor.",
+      "signal": "verkauf",
+      "since": "2026-07-05",
+      "price_at_signal": "$3.28",
+      "price_history": [
+        [
+          "2026-07-05",
+          "$3.28"
+        ],
+        [
+          "2026-07-06 18:30 UTC",
+          "$3.20"
+        ],
+        [
+          "2026-07-06 19:00 UTC",
+          "$3.19"
+        ],
+        [
+          "2026-07-07 05:25 UTC",
+          "$3.17"
+        ],
+        [
+          "2026-07-07 10:43 UTC",
+          "$3.17"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$3.21"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$3.16"
+        ]
+      ],
+      "categories": []
+    },
+    {
+      "ticker": "SOFI",
+      "company": "SoFi Technologies",
+      "insider": "Auffällig: CEO Anthony Noto kaufte DREIMAL in Folge am offenen Markt eigene Aktien – 28.900 Stück (17.3.2026, ~$17,32), 15.545 Stück (11.5.2026, ~$16,00) und 13.888 Stück (16.6.2026, ~$18,06). Wiederholte, nicht planbasierte CEO-Käufe über mehrere Monate sind unter allen recherchierten Titeln ein Ausreißer – die meisten Insider-Aktivitäten hier sind Verkäufe.",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – SoFi Form 4 Filings",
+          "https://www.stocktitan.net/sec-filings/SOFI/"
+        ]
+      ],
+      "tier": "hoch",
+      "why": "CEO Noto kaufte drei Monate in Folge am offenen Markt eigene Aktien – wiederholte, nicht planbasierte Käufe sind unter allen recherchierten Titeln die Ausnahme.",
+      "signal": "kauf",
+      "since": "2026-07-05",
+      "price_at_signal": "$18.24",
+      "price_history": [
+        [
+          "2026-07-05",
+          "$18.24"
+        ],
+        [
+          "2026-07-06 17:52 UTC",
+          "$18.24"
+        ],
+        [
+          "2026-07-06 18:30 UTC",
+          "$18.76"
+        ],
+        [
+          "2026-07-06 19:00 UTC",
+          "$18.80"
+        ],
+        [
+          "2026-07-07 05:25 UTC",
+          "$18.61"
+        ],
+        [
+          "2026-07-07 10:43 UTC",
+          "$18.61"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$18.07"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$17.89"
+        ]
+      ],
+      "categories": []
+    },
+    {
+      "ticker": "PBLS",
+      "company": "Parabilis Medicines",
+      "insider": "Major Shareholder (10%-Eigner) Guy Levy kaufte am 11.6.2026 500.000 Aktien am offenen Markt für $10 Mio. (~$20,00/Aktie) – eine Aufstockung seines Direktbesitzes um 94,88% auf 1.027.000 Aktien.",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – PBLS Form 4 Filings",
+          "https://www.stocktitan.net/sec-filings/PBLS/form-4-parabilis-medicines-inc-insider-trading-activity-fe7493c45f6c.html",
+          "2026-06-29"
+        ],
+        [
+          "Ticker Report – Guy Levy Purchase",
+          "https://www.tickerreport.com/banking-finance/13489539/parabilis-medicines-nasdaqpbls-major-shareholder-guy-levy-purchases-500000-shares-of-stock.html",
+          "2026-06-29"
+        ]
+      ],
+      "tier": "hoch",
+      "why": "Großaktionär und 10%-Eigner Guy Levy kaufte für $10 Mio. am offenen Markt und stockte seinen Bestand um fast 95% auf – seither ist die Aktie von $20 auf ~$29 gestiegen.",
+      "signal": "kauf",
+      "since": "2026-07-06",
+      "price_at_signal": "$29.05",
+      "price_history": [
+        [
+          "2026-07-06 17:52 UTC",
+          "$29.05"
+        ],
+        [
+          "2026-07-06 18:30 UTC",
+          "$29.75"
+        ],
+        [
+          "2026-07-06 19:00 UTC",
+          "$29.44"
+        ],
+        [
+          "2026-07-07 05:25 UTC",
+          "$29.20"
+        ],
+        [
+          "2026-07-07 10:43 UTC",
+          "$29.20"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$30.22"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$31.08"
+        ]
+      ],
+      "categories": [
+        "grossaktionaer"
+      ]
+    },
+    {
+      "ticker": "HTZ",
+      "company": "Hertz Global Holdings",
+      "insider": "Überwiegend Standard-Aktienvergütung an mehrere Directors (je 31.877 bzw. 5.519 Aktien, Mai/Jun. 2026); COO Michael Moore verkaufte 40.919 Aktien am offenen Markt (Quartal 2026) – einzelne nennenswerte Verkaufstransaktion neben sonst reiner Vergütung.",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – HTZ Form 4 Filings",
+          "https://www.stocktitan.net/sec-filings/HTZ/"
+        ]
+      ],
+      "tier": "mittel",
+      "why": "COO-Verkauf von 40.919 Aktien (~$248.000) sticht neben sonst reiner Standardvergütung etwas heraus, ist aber kein Großvolumen.",
+      "signal": "verkauf",
+      "since": "2026-07-05",
+      "price_at_signal": "$2.12",
+      "price_history": [
+        [
+          "2026-07-05",
+          "$2.12"
+        ],
+        [
+          "2026-07-06 18:30 UTC",
+          "$2.07"
+        ],
+        [
+          "2026-07-06 19:00 UTC",
+          "$2.06"
+        ],
+        [
+          "2026-07-07 05:25 UTC",
+          "$2.05"
+        ],
+        [
+          "2026-07-07 10:43 UTC",
+          "$2.05"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$2.16"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$2.12"
+        ]
+      ],
+      "categories": []
+    },
+    {
+      "ticker": "NXE",
+      "company": "NexGen Energy",
+      "insider": "Durchgehend einseitig: über 90 Tage netto -24,8 Mio. CAD Insider-Verkäufe (davon -18,2 Mio. CAD durch Executives), bei null gemeldeten Käufen. Einzeltransaktion: Senior Officer Benjamin Salter verkaufte CA$1,87 Mio. (26.382 Aktien, 16.1.2026).",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "Simply Wall St – NXE Insider Trading",
+          "https://simplywall.st/stocks/us/energy/nyse-nxe/nexgen-energy/ownership"
+        ],
+        [
+          "TipRanks – NXE Insider Trading",
+          "https://www.tipranks.com/stocks/nxe/insider-trading"
+        ]
+      ],
+      "tier": "mittel",
+      "why": "Null Insider-Käufe bei -24,8 Mio. CAD Nettoverkäufen über 90 Tage – einseitiges Verkaufsmuster ohne Gegenposition.",
+      "signal": "verkauf",
+      "since": "2026-07-05",
+      "price_at_signal": "$9.69",
+      "price_history": [
+        [
+          "2026-07-05",
+          "$9.69"
+        ],
+        [
+          "2026-07-06 17:52 UTC",
+          "$9.83"
+        ],
+        [
+          "2026-07-06 18:30 UTC",
+          "$9.66"
+        ],
+        [
+          "2026-07-06 19:00 UTC",
+          "$9.62"
+        ],
+        [
+          "2026-07-07 05:25 UTC",
+          "$9.68"
+        ],
+        [
+          "2026-07-07 10:43 UTC",
+          "$9.68"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$8.98"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$8.93"
+        ]
+      ],
+      "categories": []
+    },
+    {
+      "ticker": "CCJ",
+      "company": "Cameco",
+      "insider": "Insider Andrew Thorne verkaufte ~13.000 Aktien (~24% seines Direktbestands zum Zeitpunkt des Verkaufs) – laut Quelle die größte Insider-Einzeltransaktion der letzten 3 Monate. Insider insgesamt über 12 Monate Nettoverkäufer (~-3,1 Mio. USD).",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "Simply Wall St – Cameco",
+          "https://simplywall.st/stocks/us/energy/nyse-ccj/cameco"
+        ],
+        [
+          "Fintel – CCJ Insider Trading",
+          "https://fintel.io/sn/us/ccj"
+        ]
+      ],
+      "tier": "mittel",
+      "why": "Einzelverkauf von ~24% eines Insider-Direktbestands, laut Quelle größte Insider-Transaktion der letzten 3 Monate.",
+      "signal": "verkauf",
+      "since": "2026-07-05",
+      "price_at_signal": "$105.23",
+      "price_history": [
+        [
+          "2026-07-05",
+          "$105.23"
+        ],
+        [
+          "2026-07-06 17:52 UTC",
+          "~$100"
+        ],
+        [
+          "2026-07-06 18:30 UTC",
+          "$98.17"
+        ],
+        [
+          "2026-07-06 19:00 UTC",
+          "$97.97"
+        ],
+        [
+          "2026-07-07 05:25 UTC",
+          "$97.50"
+        ],
+        [
+          "2026-07-07 10:43 UTC",
+          "$97.50"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$93.35"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$93.95"
+        ]
+      ],
+      "categories": []
+    },
+    {
+      "ticker": "ALB",
+      "company": "Albemarle",
+      "insider": "Chairman & CEO J. Kent Masters verkaufte 11.783 Aktien am offenen Markt (10.3.2026, $169,63-171,89) und verschenkte zwei Tage später 30.716 Aktien an einen unwiderruflichen Trust (12.3.2026) – laut Meldung zu Diversifikations-/Steuerplanungszwecken. CCO Eric Norris verkaufte separat 5.692 Aktien (20.2.2026).",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – Albemarle Form 4 Filings",
+          "https://www.stocktitan.net/sec-filings/ALB/"
+        ]
+      ],
+      "tier": "mittel",
+      "why": "CEO verkaufte und verschenkte kurz hintereinander größere Aktienpakete – moderates, aber sichtbares Verkaufssignal.",
+      "signal": "verkauf",
+      "since": "2026-07-05",
+      "price_at_signal": "$136.08",
+      "price_history": [
+        [
+          "2026-07-05",
+          "$136.08"
+        ],
+        [
+          "2026-07-06 18:30 UTC",
+          "$134.02"
+        ],
+        [
+          "2026-07-06 19:00 UTC",
+          "$133.75"
+        ],
+        [
+          "2026-07-07 05:25 UTC",
+          "$133.80"
+        ],
+        [
+          "2026-07-07 10:43 UTC",
+          "$133.80"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$128.12"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$127.66"
+        ]
+      ],
+      "categories": []
+    },
+    {
+      "ticker": "SNOW",
+      "company": "Snowflake",
+      "insider": "Director Michael Speiser verkaufte wiederholt große Pakete unter 10b5-1-Plan: 50.741 Aktien am 6.3.2026 (~$173-176/Aktie) und erneut 50.741 Aktien am 1.5.2026 (~$140-142/Aktie) – zwei nahezu identische Verkaufsblöcke im Abstand von 2 Monaten, macht zusammen ca. $16-18 Mio.",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – Snowflake Form 4 Filings",
+          "https://www.stocktitan.net/sec-filings/SNOW/"
+        ]
+      ],
+      "tier": "mittel",
+      "why": "Derselbe Director verkaufte zweimal ca. denselben Aktienblock (je ~50.700 Aktien) im Abstand von 2 Monaten – wiederkehrendes Verkaufsmuster mit spürbarem Gesamtvolumen (~$16-18 Mio.).",
+      "signal": "verkauf",
+      "since": "2026-07-05",
+      "price_at_signal": "$257.97",
+      "price_history": [
+        [
+          "2026-07-05",
+          "$257.97"
+        ],
+        [
+          "2026-07-06 17:52 UTC",
+          "~$245"
+        ],
+        [
+          "2026-07-06 18:30 UTC",
+          "$260.74"
+        ],
+        [
+          "2026-07-06 19:00 UTC",
+          "$261.10"
+        ],
+        [
+          "2026-07-07 05:25 UTC",
+          "$262.09"
+        ],
+        [
+          "2026-07-07 10:43 UTC",
+          "$262.09"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$267.00"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$269.20"
+        ]
+      ],
+      "categories": []
+    },
+    {
+      "ticker": "COE",
+      "company": "51Talk Online Education Group",
+      "insider": "CEO Jack Jiajia Huang kauft über die verbundene Gesellschaft HH Talent Limited seit Ende Dezember 2025 unter einem 10b5-1-Plan durchgehend am offenen Markt zu: u.a. 1.740.240 Aktien (27.3.-9.4.2026), 384.960 Aktien (13.-17.4.2026), 446.700 Aktien (24.4.-5.5.2026), 84.180 Aktien (11.-14.5.2026), weitere Käufe Ende Mai sowie 216.300 Aktien (8.-15.6.2026) – mehrmonatiger, wiederholter Kaufkurs trotz fallender Kurse (Kaufpreise lagen bei $25-27, aktueller Kurs ~$16,30).",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – COE Form 4 Filings",
+          "https://www.stocktitan.net/sec-filings/COE/form-4-51talk-online-education-group-insider-trading-activity-ec05c8abc2cf.html",
+          "2026-04"
+        ]
+      ],
+      "tier": "mittel",
+      "why": "CEO kauft seit Ende 2025 fast monatlich über eine verbundene Gesellschaft am offenen Markt zu – trotz Kursrückgang von ~$27 auf ~$16 hält der Kaufkurs an, ein Zeichen anhaltender Überzeugung statt Gewinnmitnahme.",
+      "signal": "kauf",
+      "since": "2026-07-06",
+      "price_at_signal": "$16.30",
+      "price_history": [
+        [
+          "2026-07-06 17:52 UTC",
+          "$16.30"
+        ],
+        [
+          "2026-07-06 18:30 UTC",
+          "$16.12"
+        ],
+        [
+          "2026-07-06 19:00 UTC",
+          "$16.12"
+        ],
+        [
+          "2026-07-07 05:25 UTC",
+          "$16.00"
+        ],
+        [
+          "2026-07-07 10:43 UTC",
+          "$16.00"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$16.90"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$16.90"
+        ]
+      ],
+      "categories": [
+        "buy_the_dip"
+      ]
+    },
+    {
+      "ticker": "NVCT",
+      "company": "Nuvectis Pharma",
+      "insider": "CEO & Chairman Ron Bentsur kaufte am 30.6.2026 12.500 Aktien für $250.000 (~$20,00/Aktie) im Rahmen einer Kapitalerhöhung – am selben Tag kaufte unabhängig davon 10%-Eigner Charles Mosseri-Marlio 13.000 Aktien für $250.000 (~$18,32/Aktie) am offenen Markt.",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – NVCT CEO Form 4",
+          "https://www.stocktitan.net/sec-filings/NVCT/form-4-nuvectis-pharma-inc-insider-trading-activity-c8daabf9cc9e.html",
+          "2026-06-30"
+        ]
+      ],
+      "tier": "mittel",
+      "why": "CEO und ein unabhängiger 10%-Großaktionär kauften am selben Tag je $250.000 — ein sauberes Cluster-Signal von zwei verschiedenen Insidern.",
+      "signal": "kauf",
+      "since": "2026-07-06",
+      "price_at_signal": "$20.00",
+      "price_history": [
+        [
+          "2026-07-06 18:30 UTC",
+          "$20.00"
+        ],
+        [
+          "2026-07-06 19:00 UTC",
+          "$20.25"
+        ],
+        [
+          "2026-07-07 05:25 UTC",
+          "$19.63"
+        ],
+        [
+          "2026-07-07 10:43 UTC",
+          "$19.63"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$19.32"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$19.58"
+        ]
+      ],
+      "categories": [
+        "cluster_kauf"
+      ]
+    },
+    {
+      "ticker": "BOLD",
+      "company": "Boundless Bio",
+      "insider": "Tang Capital Management (Kevin Tang) kaufte über mehrere Wochen durchgehend am offenen Markt zu — 286.333 Aktien allein zwischen 25.-29.6.2026 (~$2,40-2,60/Aktie) plus weitere Käufe am 30.6., 1.7. und 2.7.2026 — und hält nun 11,3% der Aktien (2.533.845 Stück, Schedule 13G vom 29.6.2026).",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – Tang Capital Schedule 13G",
+          "https://www.stocktitan.net/sec-filings/BOLD/schedule-13g-boundless-bio-inc-passive-investment-disclosure-5-655d03c9ccae.html",
+          "2026-06-29"
+        ],
+        [
+          "StockTitan – Tang Capital Form 4",
+          "https://www.stocktitan.net/sec-filings/BOLD/form-4-boundless-bio-inc-insider-trading-activity-b74456645899.html"
+        ]
+      ],
+      "tier": "hoch",
+      "why": "Bekannter, healthcare-fokussierter Investor Kevin Tang/Tang Capital baut über Wochen aktiv eine >11%-Beteiligung durch fortgesetzte offene Marktkäufe auf — keine passive Position, sondern anhaltende Akkumulation.",
+      "signal": "kauf",
+      "since": "2026-07-06",
+      "price_at_signal": "$2.50",
+      "price_history": [
+        [
+          "2026-07-06 18:30 UTC",
+          "$2.50"
+        ],
+        [
+          "2026-07-06 19:00 UTC",
+          "$2.50"
+        ],
+        [
+          "2026-07-07 05:25 UTC",
+          "$2.50"
+        ],
+        [
+          "2026-07-07 10:43 UTC",
+          "$2.50"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$2.45"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$2.49"
+        ]
+      ],
+      "categories": [
+        "grossaktionaer"
+      ]
+    }
+  ],
+  "track_record": [],
+  "my_stocks": [
+    {
+      "ticker": "LUNR",
+      "company": "Intuitive Machines",
+      "shares_held": 14,
+      "buy_price_eur": 16.304,
+      "insider": "Ghaffarian Enterprises verkaufte über Rule-10b5-1-Pläne wiederholt große Blöcke (283.818 Aktien im März, 141.909 Aktien am 1.6.2026); CEO Altemus und Director Liquori verkauften kleinere Pakete überwiegend zur Steuerdeckung.",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – LUNR Form 4 Filings",
+          "https://www.stocktitan.net/sec-filings/LUNR/form-4-intuitive-machines-inc-insider-trading-activity-6565e271d347.html",
+          "2026-06-01"
+        ]
+      ],
+      "tier": "mittel",
+      "why": "Wiederholte, planbasierte Großverkäufe eines Alt-Investors (Ghaffarian) ohne Gegenkäufe – Verkaufsdruck vorhanden, aber überwiegend 10b5-1-plangesteuert und damit kein spontanes Überzeugungssignal.",
+      "signal": "verkauf",
+      "since": "2026-07-07",
+      "price_at_signal": "$18.89",
+      "price_history": [
+        [
+          "2026-07-07 11:00 UTC",
+          "$18.89"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$17.66"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$17.74"
+        ]
+      ],
+      "categories": [],
+      "trend": "52-Wochen-Range $7,78–$46,75, aktuell im unteren Drittel.",
+      "analyst_rating": "Buy (7 Buy / 1 Hold / 1 Sell, 9 Analysten)",
+      "analyst_target": "$40,78 im Schnitt (+116%)",
+      "recommendation": "halten",
+      "confidence": "mittel",
+      "confidence_reason": "Insider-Verkäufe sind planbasiert (10b5-1) und daher schwach zu gewichten; Analysten sind trotzdem sehr optimistisch – Faktoren nicht ganz einig."
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "shares_held": 7,
+      "buy_price_eur": 206.8,
+      "insider": "Ausschließlich Routine-Transaktionen: CFO Meintjes verkaufte 4.000 Aktien (10b5-1-Plan, 15.5.), CFO Durn verkaufte 2.250 Aktien (23.6.), ESPP-Kauf von 362 Aktien (5.6.), PSU-Vesting des Presidents.",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – MRVL Form 4 Filings",
+          "https://www.stocktitan.net/sec-filings/MRVL/form-4-marvell-technology-inc-insider-trading-activity-68b8f89b8ca3.html"
+        ]
+      ],
+      "tier": "routine",
+      "why": "Keine überzeugungsgetriebenen Insider-Trades gefunden – nur planbasierte Verkäufe und Mitarbeiterkaufplan-Zukäufe, kein klares Richtungssignal.",
+      "signal": "neutral",
+      "since": "2026-07-07",
+      "price_at_signal": "$249.27",
+      "price_history": [
+        [
+          "2026-07-07 11:00 UTC",
+          "$249.27"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$225.92"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$223.92"
+        ]
+      ],
+      "categories": [],
+      "trend": "52-Wochen-Range $61,44–$329,88, nahe Jahreshoch, über 200-Tage-Linie.",
+      "analyst_rating": "Strong Buy (44 Analysten)",
+      "analyst_target": "$249,33 im Schnitt, jüngste Updates bis $330 (+34%)",
+      "recommendation": "halten",
+      "confidence": "hoch",
+      "confidence_reason": "Kein negatives Insider-Signal, starker Analysten-Konsens, positiver Trend – alle Faktoren stimmen überein."
+    },
+    {
+      "ticker": "PLUG",
+      "company": "Plug Power",
+      "shares_held": 45,
+      "buy_price_eur": 2.2755,
+      "insider": "Überwiegend Director-Aktienvergütungen (Angle 3.558, Bonney 8.764, Kenausis 3.980, Joggerst 7.644 Aktien, alle Juli 2026); CFO Middleton erhielt Optionen; Director Helmer verkaufte 50.000 Aktien via 10b5-1-Plan.",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – PLUG Form 4 Filings",
+          "https://www.stocktitan.net/sec-filings/PLUG/form-4-plug-power-inc-insider-trading-activity-c6aa24147bdc.html"
+        ]
+      ],
+      "tier": "routine",
+      "why": "Standard-Vergütungspakete für Directors, kein Muster überzeugungsgetriebener offener Marktkäufe oder -verkäufe erkennbar.",
+      "signal": "neutral",
+      "since": "2026-07-07",
+      "price_at_signal": "$2.64",
+      "price_history": [
+        [
+          "2026-07-07 11:00 UTC",
+          "$2.64"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$2.52"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$2.49"
+        ]
+      ],
+      "categories": [],
+      "trend": "52-Wochen-Range $1,35–$4,58, mittlerer Bereich.",
+      "analyst_rating": "Hold (5 Buy / 12 Hold / 3 Sell, 16 Analysten)",
+      "analyst_target": "$3,62–$3,75 (+37%)",
+      "recommendation": "halten",
+      "confidence": "mittel",
+      "confidence_reason": "Alle Faktoren neutral bis leicht positiv, kein klarer Ausschlag in eine Richtung."
+    },
+    {
+      "ticker": "QUBT",
+      "company": "Quantum Computing Inc.",
+      "shares_held": 180,
+      "buy_price_eur": 8.1956,
+      "insider": "Nur Eigenkapital-Vergütung (CRO Dianat: RSUs + Optionen 28.5.; CEO Huang: RSUs + Optionen 28.5.), keine Käufe/Verkäufe am offenen Markt. Parallel: Kanzlei Purcell & Lefkowitz hat eine Aktionärs-Untersuchung wegen möglicher Sorgfaltspflichtverletzungen der Direktoren im Zusammenhang mit jüngsten Unternehmensmaßnahmen eingeleitet.",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StocksToTrade – QUBT Legal Scrutiny",
+          "https://stockstotrade.com/news/quantum-computing-inc-qubt-news-2026_04_23/",
+          "2026-04-23"
+        ]
+      ],
+      "tier": "mittel",
+      "why": "Keine handelbaren Insider-Signale, aber eine laufende Aktionärs-Untersuchung wegen möglicher Pflichtverletzungen ist ein Warnsignal, das Aufmerksamkeit verdient.",
+      "signal": "warnsignal",
+      "since": "2026-07-07",
+      "price_at_signal": "$9.37",
+      "price_history": [
+        [
+          "2026-07-07 11:00 UTC",
+          "$9.37"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$8.54"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$8.70"
+        ]
+      ],
+      "categories": [],
+      "trend": "52-Wochen-Range $6,18–$25,84, unteres Drittel.",
+      "analyst_rating": "Buy (4 Buy / 2 Hold / 0 Sell, 6 Analysten)",
+      "analyst_target": "$18,33 (+86%)",
+      "recommendation": "beobachten",
+      "confidence": "niedrig",
+      "confidence_reason": "Laufende Aktionärs-Untersuchung widerspricht dem optimistischen Analysten-Bild – Faktoren uneinig, bis zur Klärung keine Aufstockung."
+    },
+    {
+      "ticker": "RMCF",
+      "company": "Rocky Mountain Chocolate",
+      "shares_held": 100,
+      "buy_price_eur": 0.805,
+      "insider": "10%-Eigner American Heritage Railways verkaufte wiederholt (54.100 Aktien Feb-März, weitere 85.900 Aktien im Mai 2026); Allen C. Harper verkaufte zusätzlich 189.541 Aktien (Feb-Mai 2026) zu $2,45-2,62. Parallel wechselte das Unternehmen den Wirtschaftsprüfer inmitten eines Going-Concern-Vermerks.",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – RMCF Insider Trading",
+          "https://www.stocktitan.net/sec-filings/RMCF/form-4-rocky-mountain-chocolate-factory-inc-insider-trading-activity-25b6186fcbbd.html"
+        ],
+        [
+          "StockTitan – RMCF Auditor Change",
+          "https://www.stocktitan.net/sec-filings/RMCF/8-k-rocky-mountain-chocolate-factory-inc-reports-material-event-5112c2f4b365.html"
+        ]
+      ],
+      "tier": "hoch",
+      "why": "Zwei Großaktionäre verkauften über Monate hinweg konsequent Aktien, während das Unternehmen gleichzeitig einen Going-Concern-Vermerk und einen Prüferwechsel meldete – deutliches Warnsignal.",
+      "signal": "warnsignal",
+      "since": "2026-07-07",
+      "price_at_signal": "$1.11",
+      "price_history": [
+        [
+          "2026-07-07 11:00 UTC",
+          "$1.11"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$1.11"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$1.06"
+        ]
+      ],
+      "categories": [],
+      "trend": "52-Wochen-Range $1,31–$2,99 — aktuell UNTER dem 52-Wochen-Tief.",
+      "analyst_rating": "Strong Sell (Konsens aus 27 Analysten-Meinungen)",
+      "analyst_target": "$2,44 im Konsens (ein Ausreißer bei $18)",
+      "recommendation": "verkauf_pruefen",
+      "confidence": "hoch",
+      "confidence_reason": "Insider-Warnsignal, Going-Concern-Vermerk, Analysten-Konsens und Kursverfall unter das 52-Wochen-Tief zeigen alle in dieselbe negative Richtung – höchste Übereinstimmung aller sieben Titel."
+    },
+    {
+      "ticker": "TTWO",
+      "company": "Take-Two Interactive",
+      "shares_held": 2,
+      "buy_price_eur": 226.4,
+      "insider": "Überwiegend Routine: CFO Goldstein verkaufte 31.060 Aktien zur Steuerdeckung (2.6.), Chief Legal Officer Emerson verkaufte 4.419 Aktien via 10b5-1-Plan (16.6.), kleinere Director-Verkäufe (Moses 500, Siminoff-Trusts 334 Aktien).",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – TTWO Form 4 Filings",
+          "https://www.stocktitan.net/sec-filings/TTWO/form-4-take-two-interactive-software-inc-insider-trading-activity-3ba03eb73d24.html"
+        ]
+      ],
+      "tier": "routine",
+      "why": "Nur planbasierte Kleinverkäufe und Steuerdeckungs-Transaktionen von Führungskräften – kein überzeugungsgetriebenes Signal.",
+      "signal": "neutral",
+      "since": "2026-07-07",
+      "price_at_signal": "$258.41",
+      "price_history": [
+        [
+          "2026-07-07 11:00 UTC",
+          "$258.41"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$258.39"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$258.79"
+        ]
+      ],
+      "categories": [],
+      "trend": "52-Wochen-Range $187,63–$264,79, nahe Jahreshoch.",
+      "analyst_rating": "Strong Buy (29 Buy / 0 Hold / 1 Sell, 30 Analysten)",
+      "analyst_target": "$281,67 (+18%), GTA-VI-Katalysator erwartet",
+      "recommendation": "halten",
+      "confidence": "hoch",
+      "confidence_reason": "Kein negatives Insider-Signal, sehr starker Analysten-Konsens, positiver Trend und konkreter Katalysator (GTA VI) – Faktoren stimmen überein."
+    },
+    {
+      "ticker": "SPCE",
+      "company": "Virgin Galactic",
+      "shares_held": 80,
+      "buy_price_eur": 2.32,
+      "insider": "Director Diana S. Strandberg kaufte 20.000 Aktien am offenen Markt zu $2,489 (April/Mai 2026) – ein echter Überzeugungskauf. Übrige Insider-Meldungen (CEO Colglazier, CFO Ahrens, CPO Chitale) sind reine RSU-Vesting-Steuerdeckungen ohne Richtungssignal.",
+      "political": "Keine spezifischen Funde im Rahmen dieser Recherche.",
+      "sources": [
+        [
+          "StockTitan – SPCE Director Purchase",
+          "https://www.stocktitan.net/sec-filings/SPCE/form-4-virgin-galactic-holdings-inc-insider-trading-activity-2bc5cdcee050.html"
+        ]
+      ],
+      "tier": "mittel",
+      "why": "Einzelner, aber klarer offener Marktkauf einer Direktorin (~$50.000) inmitten sonst nur routinemäßiger Steuerdeckungs-Transaktionen.",
+      "signal": "kauf",
+      "since": "2026-07-07",
+      "price_at_signal": "$2.69",
+      "price_history": [
+        [
+          "2026-07-07 11:00 UTC",
+          "$2.69"
+        ],
+        [
+          "2026-07-07 14:34 UTC",
+          "$2.54"
+        ],
+        [
+          "2026-07-07 15:21 UTC",
+          "$2.56"
+        ]
+      ],
+      "categories": [],
+      "trend": "Aktuell nahe Jahrestief, unter der 200-Tage-Linie.",
+      "analyst_rating": "Hold (weite Streuung: $0,75 bis $36 Kursziel)",
+      "analyst_target": "$3,55–$6,08 im Schnitt (grob +30%), aber extreme Streuung",
+      "recommendation": "halten",
+      "confidence": "niedrig",
+      "confidence_reason": "Ein einzelner kleiner Insider-Kauf reicht nicht, um den negativen Kurstrend und die enorme Streuung der Analystenmeinungen auszugleichen – hohe Unsicherheit."
+    }
+  ]
+}
